@@ -1,7 +1,8 @@
 public class ArraySolution {
 
     public static void main(String[] args) {
-         System.out.println(findMedianSortedArrays(new int[] {1,2}, new int[] {3,4}));
+         // System.out.println(findMedianSortedArrays(new int[] {1,2}, new int[] {3,4}));
+        System.out.println(maxArea(new int[] {1,8,6,2,5,4,8,3,7}));
     }
 
     //    There are two sorted arrays nums1 and nums2 of size m and n respectively.
@@ -37,6 +38,31 @@ public class ArraySolution {
     }
     // Given n non-negative integers a1, a2, ..., an , where each represents a point at coordinate (i, ai). n vertical lines are drawn such that the two endpoints of line i is at (i, ai) and (i, 0). Find two lines, which together with x-axis forms a container, such that the container contains the most water.
     public static int maxArea(int[] height) {
+       int maxArea = 0;
+//        for (int i = 0 ; i < height.length - 1; i++) {
+//            for (int j = i + 1; j < height.length; j++) {
+//                if (height[i] < height[j]) {
+//                    if (maxArea < height[i] * (j - i))
+//                        maxArea = height[i] * (j - i);
+//                } else {
+//                    if (maxArea < height[j] * (j - i))
+//                        maxArea = height[j] * (j - i);
+//                }
+//            }
+//        }
+//        return maxArea;
 
+        int i = 0 , j = height.length - 1;
+
+        while (i < j) {
+            if (height[i] < height[j]) {
+                maxArea = Math.max(maxArea, height[i] * (j - i));
+                i++;
+            } else {
+                maxArea = Math.max(maxArea, height[j] * (j - i));
+                j--;
+            }
+        };
+        return maxArea;
     }
 }

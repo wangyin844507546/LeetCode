@@ -1,0 +1,10 @@
+
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬°Å
+0
+java:S1220""Move this file to a named package.
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+M
+java:S1854("7Remove this useless assignment to local variable "ips".(ÌôëÄ
+>
+java:S1481("(Remove this unused "ips" local variable.(ÌôëÄ

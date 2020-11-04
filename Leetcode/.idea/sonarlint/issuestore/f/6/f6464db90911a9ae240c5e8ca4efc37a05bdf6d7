@@ -1,0 +1,12 @@
+
+C
+java:S1604,"(Make this anonymous inner class a lambda(í¤ÑÑùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+P
+java:S1854*":Remove this useless assignment to local variable "point1".(‡…½Ñ
+7
+java:S16595"!Declare "end" on a separate line.(‹º»Ù
+A
+java:S1481*"+Remove this unused "point1" local variable.(‡…½Ñ
+V	java:S125"<This block of commented-out lines of code should be removed.(Áß¦Èÿÿÿÿÿ

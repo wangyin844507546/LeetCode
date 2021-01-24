@@ -1,3 +1,7 @@
+package algorithm;
+
+import Structure.StringCode;
+
 import java.util.List;
 
 /**

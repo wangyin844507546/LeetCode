@@ -15,4 +15,27 @@ package algorithm.dynamicProgram;
  * 解释：最长公共子序列是 "ace" ，它的长度为 3 。
  */
 public class longestCommonSubsequence {
+
+
+    public static int longestCommonSubsequence(String text1, String text2) {
+        int length1 = text1.length();
+        int length2 = text2.length();
+        int[][] result = new int[length1+1][length2+1];
+        for (int i = 1 ; i <= length1; i++) {
+            char char1 = text1.charAt(i-1);
+            for (int j = 1; j <= length2; j++) {
+                char char2 = text2.charAt(j-1);
+                if (char1 == char2) {
+                    result[i][j] = result[i-1][j-1] + 1;
+                } else {
+                    result[i][j] = Math.max(result[i-1][j],result[i][j-1]);
+                }
+            }
+        }
+        return result[length1][length2];
+    }
+
+    public static void main(String[] args) {
+        longestCommonSubsequence("abcde","ace");
+    }
 }

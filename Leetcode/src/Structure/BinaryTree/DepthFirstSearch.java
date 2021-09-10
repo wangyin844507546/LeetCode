@@ -1,4 +1,4 @@
-package algorithm;
+package Structure.BinaryTree;
 
 /**
  * @author Wang Yin

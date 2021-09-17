@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sortArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/Sort/sortArray.java">
+      <file leaf-file-name="inorderTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/inorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1058">
-              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+            <state relative-caret-position="435">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,46 +29,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/java/jdk/src.zip!/java/lang/String.java">
+      <file leaf-file-name="postorderTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/postorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="104" column="29" selection-start-line="104" selection-start-column="29" selection-end-line="104" selection-end-column="29" />
+            <state relative-caret-position="615">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
               <folding>
-                <element signature="e#94598#94599#0" expanded="true" />
-                <element signature="e#94636#94637#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/java/jdk/src.zip!/java/util/Arrays.java">
+      <file leaf-file-name="levelOrder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/levelOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="1245" column="33" selection-start-line="1245" selection-start-column="33" selection-end-line="1245" selection-end-column="33" />
+            <state relative-caret-position="375">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#5027#5028#0" expanded="true" />
-                <element signature="e#5098#5099#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ComparableTimSort.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/java/jdk/src.zip!/java/util/ComparableTimSort.java">
+      <file leaf-file-name="preorderTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/preorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1135">
-              <caret line="190" column="9" selection-start-line="190" selection-start-column="9" selection-end-line="190" selection-end-column="9" />
+            <state relative-caret-position="375">
+              <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DualPivotQuicksort.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/java/jdk/src.zip!/java/util/DualPivotQuicksort.java">
+      <file leaf-file-name="invertTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/invertTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4370">
-              <caret line="213" column="24" selection-start-line="213" selection-start-column="24" selection-end-line="213" selection-end-column="24" />
+            <state relative-caret-position="360">
+              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -91,11 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HashTable.java" />
-        <option value="$PROJECT_DIR$/src/Tree.java" />
-        <option value="$PROJECT_DIR$/src/Bit.java" />
-        <option value="$PROJECT_DIR$/Basic.xml" />
-        <option value="$PROJECT_DIR$/src/StringCode.java" />
         <option value="$PROJECT_DIR$/src/Greedy.java" />
         <option value="$PROJECT_DIR$/src/Recursion.java" />
         <option value="$PROJECT_DIR$/src/Sort.java" />
@@ -117,7 +113,6 @@
         <option value="$PROJECT_DIR$/src/Structure/LinkedList/deleteDuplicates.java" />
         <option value="$PROJECT_DIR$/src/Structure/ListNode.java" />
         <option value="$PROJECT_DIR$/src/Structure/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/Structure/BinaryTree/inorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/algorithm/Recursion/reverseString.java" />
         <option value="$PROJECT_DIR$/src/algorithm/BinarySearch/intersection.java" />
         <option value="$PROJECT_DIR$/src/algorithm/BinarySearch/intersect.java" />
@@ -142,6 +137,12 @@
         <option value="$PROJECT_DIR$/src/algorithm/Sort/twoSum.java" />
         <option value="$PROJECT_DIR$/src/algorithm/Sort/test.java" />
         <option value="$PROJECT_DIR$/src/algorithm/Sort/sortArray.java" />
+        <option value="$PROJECT_DIR$/src/Structure/BinaryTree/DepthFirstSearch.java" />
+        <option value="$PROJECT_DIR$/src/Structure/BinaryTree/BreadthFirstSearch.java" />
+        <option value="$PROJECT_DIR$/src/Structure/BinaryTree/preorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/Structure/BinaryTree/inorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/Structure/BinaryTree/postorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/Structure/BinaryTree/levelOrder.java" />
       </list>
     </option>
   </component>
@@ -165,7 +166,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,15 +191,19 @@
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Sort" type="462c0819:PsiDirectoryNode" />
+              <item name="Structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Structure" type="462c0819:PsiDirectoryNode" />
+              <item name="BinaryTree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,38 +328,38 @@
     <option name="totallyTimeSpent" value="68645000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32596686" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32884902" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.31767955" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.17265193" visible="true" weight="0.22989276" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.17265193" visible="true" weight="0.2298177" />
+      <window_info anchor="bottom" id="SonarLint" order="8" />
       <window_info id="Structure" order="1" sideWeight="0.82734805" side_tool="true" weight="0.22989276" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45718232" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="SonarLint" order="8" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32872927" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32596686" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,15 +455,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Recursion/mergeTwoLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test7.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/Test3.java" />
     <entry file="file://$PROJECT_DIR$/src/Structure/String.java" />
     <entry file="file://$PROJECT_DIR$/src/algorithm/DivideAndConquer/hanota.java">
@@ -474,13 +472,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Structure/Link.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/inorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/Recursion/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -503,13 +494,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/java/jdk/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/Vector.java" />
     <entry file="file://$PROJECT_DIR$/src/algorithm/Recursion/reverseString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -521,13 +506,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/java/jdk/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/Stack.java" />
     <entry file="file://$PROJECT_DIR$/src/Structure/Stack/CQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -592,13 +571,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/Tree.java" />
-    <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/invertTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Structure/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -648,20 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/BreadthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/DepthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/dynamicProgram/DynamicProgramming.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -687,31 +645,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort/threeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort/twoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="22" selection-end-column="27" />
-          <folding>
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort/threeSum.java" />
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort/Sort.java" />
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort/twoSum.java" />
     <entry file="file://$PROJECT_DIR$/src/Structure/String/longestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -733,56 +669,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/java/jdk/src.zip!/java/util/DualPivotQuicksort.java">
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/DualPivotQuicksort.java" />
+    <entry file="jar://D:/java/jdk/src.zip!/java/lang/String.java" />
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/Arrays.java" />
+    <entry file="jar://D:/java/jdk/src.zip!/java/util/ComparableTimSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort/sortArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/invertTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4370">
-          <caret line="213" column="24" selection-start-line="213" selection-start-column="24" selection-end-line="213" selection-end-column="24" />
+        <state relative-caret-position="360">
+          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/java/jdk/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/DepthFirstSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="104" column="29" selection-start-line="104" selection-start-column="29" selection-end-line="104" selection-end-column="29" />
-          <folding>
-            <element signature="e#94598#94599#0" expanded="true" />
-            <element signature="e#94636#94637#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/java/jdk/src.zip!/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/BreadthFirstSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="1245" column="33" selection-start-line="1245" selection-start-column="33" selection-end-line="1245" selection-end-column="33" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/java/jdk/src.zip!/java/util/ComparableTimSort.java">
+    <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/preorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1135">
-          <caret line="190" column="9" selection-start-line="190" selection-start-column="9" selection-end-line="190" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="375">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Sort/sortArray.java">
+    <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/inorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1058">
-          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        <state relative-caret-position="435">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/postorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Structure/BinaryTree/levelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -14,7 +14,11 @@ import java.util.Scanner;
  */
 public class sortArray {
 
-    public int[] sortArray(int[] nums) {
+    public static void main(String[] args) {
+        quickSort(new int[] {5,2,3,1,4});
+    }
+
+    public static int[] sortArray(int[] nums) {
          Arrays.sort(nums);
          return nums;
     }
@@ -47,11 +51,38 @@ public class sortArray {
      * 快速排序
      * @param nums
      */
-    public static void qucikSort(int[] nums) {
-
+    public static void quickSort(int[] nums) {
+        quickSort(nums,0,nums.length - 1);
 
     }
 
+    public static void quickSort(int[] nums,int low,int high) {
+        if (low < high) {
+            int index = doubleIndexPartition(nums,low,high);
+            quickSort(nums,low,index-1);
+            quickSort(nums,index+1,high);
+        }
+    }
+
+    public static int doubleIndexPartition(int[] nums, int low, int high) {
+        int pivot = nums[low];
+        int start = low;
+        while (low < high) {
+            while (low < high && nums[high] >= pivot) high--;
+            while (low < high && nums[low] <= pivot) low++;
+            if (low == high) {
+                break;
+            }
+            swap(nums,start,high);
+        }
+        return low;
+    }
+
+    private static void swap(int[] nums, int low, int high) {
+        int pivot = nums[low];
+        nums[low] = nums[high];
+        nums[high] = pivot;
+    }
 
 
 }

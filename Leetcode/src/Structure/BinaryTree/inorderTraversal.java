@@ -1,5 +1,10 @@
 package Structure.BinaryTree;
 
+import Structure.TreeNode;
+
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @Author Wang Yin
  * @Date 2021/8/15 22:17
@@ -9,4 +14,18 @@ package Structure.BinaryTree;
  * 输出：[1,3,2]
  */
 public class inorderTraversal {
+
+    public List<Integer> inorderTraversal(TreeNode root) {
+            List<Integer> list = new ArrayList<>();
+            inorderTraversal(root,list);
+            return list;
+        }
+
+        public static void inorderTraversal(TreeNode root,List<Integer> list) {
+            if (root != null) {
+                inorderTraversal(root.left,list);
+                list.add(root.val);
+                inorderTraversal(root.right,list);
+            }
+    }
 }

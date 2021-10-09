@@ -22,7 +22,6 @@ public class levelOrder {
         List<Integer> temp = new ArrayList<>();
         for(int i=0; i < treeNodes.size(); i++) {
             temp.add(treeNodes.get(i).val);
-            treeNodes
         }
     }
 

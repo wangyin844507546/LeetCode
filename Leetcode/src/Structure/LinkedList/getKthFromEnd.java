@@ -1,6 +1,6 @@
-package Structure.LinkedList;
+package structure.LinkedList;
 
-import ListNode;
+import common.ListNode;
 
 /**
  * @Author Wang Yin

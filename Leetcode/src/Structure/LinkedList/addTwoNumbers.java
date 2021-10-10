@@ -1,4 +1,4 @@
-package Structure.LinkedList;
+package structure.LinkedList;
 
 /**
  * @Author Wang Yin

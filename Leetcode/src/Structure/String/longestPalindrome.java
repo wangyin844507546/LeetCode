@@ -1,4 +1,4 @@
-package Structure.String;
+package structure.String;
 
 /**
  * @Author Wang Yin

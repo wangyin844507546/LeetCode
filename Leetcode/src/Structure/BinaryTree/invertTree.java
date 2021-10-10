@@ -1,6 +1,6 @@
 package Structure.BinaryTree;
 
-import Structure.TreeNode;
+import TreeNode;
 
 /**
  * @Author Wang Yin

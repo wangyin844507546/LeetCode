@@ -1,6 +1,6 @@
 package Structure.BinaryTree;
 
-import Structure.TreeNode;
+import TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

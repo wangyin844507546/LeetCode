@@ -1,6 +1,6 @@
 package algorithm.Greddy;
 
-import Structure.ListNode;
+import ListNode;
 
 /**
  * @Author Wang Yin

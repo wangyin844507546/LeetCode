@@ -1,6 +1,6 @@
 package algorithm.Greddy;
 
-import Structure.ListNode;
+import common.ListNode;
 
 /**
  * @Author Wang Yin
@@ -51,15 +51,15 @@ public class addTwoNumbers {
     }
 
     public static void main(String[] args) {
-//        ListNode head1;
-//        ListNode head2;
-//        ListNode l1 = new ListNode(1);
-//        ListNode l2 = new ListNode(3);
+//        common.ListNode head1;
+//        common.ListNode head2;
+//        common.ListNode l1 = new common.ListNode(1);
+//        common.ListNode l2 = new common.ListNode(3);
 //        head1 = l1;
 //        head2 = l2;
 //        int i = 5;
 //        while (i-- > 0) {
-//            ListNode listNode = new ListNode(i);
+//            common.ListNode listNode = new common.ListNode(i);
 //            l1.next = listNode;
 //            l2.next = listNode;
 //            l1 = l1.next;

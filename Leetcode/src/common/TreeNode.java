@@ -1,4 +1,4 @@
-package Structure;
+package common;
 
 /**
  * @Author Wang Yin

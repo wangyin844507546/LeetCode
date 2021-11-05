@@ -1,6 +1,6 @@
 package algorithm.Recursion;
 
-import Structure.String.StringCode;
+import structure.String.StringCode;
 
 import java.util.List;
 

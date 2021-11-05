@@ -19,12 +19,12 @@ public class addTwoNumbers {
 //        BigDecimal b = BigDecimal.valueOf(Long.valueOf(generateStr(l2)));
 //        BigDecimal c = a.add(b);
 //        String str = c.toEngineeringString();
-//        algorithm.Recursion.ListNode listNode = new algorithm.Recursion.ListNode();
+//        algorithm.Recursion.common.ListNode listNode = new algorithm.Recursion.common.ListNode();
 //        listNode.val = str.charAt(0);
-//        algorithm.Recursion.ListNode listNode1 = new algorithm.Recursion.ListNode();
+//        algorithm.Recursion.common.ListNode listNode1 = new algorithm.Recursion.common.ListNode();
 //        listNode.next = listNode1;
 //        for (int i=1;i< str.length();i++) {
-//            listNode1 = new algorithm.Recursion.ListNode(str.charAt(i));
+//            listNode1 = new algorithm.Recursion.common.ListNode(str.charAt(i));
 //            listNode1.next
 //
 //        }

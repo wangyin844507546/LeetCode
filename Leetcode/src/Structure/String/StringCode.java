@@ -1,7 +1,6 @@
-package Structure.String;
+package structure.String;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /**

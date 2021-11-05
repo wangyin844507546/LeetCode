@@ -1,4 +1,4 @@
-package Structure.Array;
+package structure.Array;
 
 /**
  * @Author Wang Yin

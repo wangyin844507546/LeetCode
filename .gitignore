@@ -22,6 +22,11 @@ hs_err_pid*
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
 .idea/
+Leetcode/.idea/tasks.xml
+Leetcode/.idea/dictionaries
+Leetcode/.idea/vcs.xml
+Leetcode/.idea/jsLibraryMappings.xml
+Leetcode/.idea/
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
@@ -91,6 +96,7 @@ buildNumber.properties
 .classpath
 .settings
 .metadata
-
+Leetcode/.idea/
+Leetcode/out/
 .svn
 

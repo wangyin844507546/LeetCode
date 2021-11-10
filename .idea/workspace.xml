@@ -3,27 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6cbb3c97-5b08-41c5-9de5-8507ea0b9823" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/Array/canJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/Array/canJump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/Array/canReach.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/Array/canReach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/Array/jump.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/Array/jump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/Array/maxResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/Array/maxResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/Array/threeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/Array/threeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/BinaryTree/constructMaximumBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/constructMaximumBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/BinaryTree/inorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/inorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/BinaryTree/invertTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/invertTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/BinaryTree/levelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/levelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/BinaryTree/postorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/postorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/BinaryTree/preorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/preorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/LinkedList/addTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/LinkedList/addTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/LinkedList/deleteDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/LinkedList/deleteDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/LinkedList/detectCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/LinkedList/detectCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/LinkedList/getKthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/LinkedList/getKthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/LinkedList/mergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/LinkedList/mergeTwoLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/LinkedList/middleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/LinkedList/middleNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/LinkedList/removeNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/LinkedList/removeNthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/Stack/CQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/Stack/CQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/String/StringCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/String/StringCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Structure/String/longestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/String/longestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,41 +14,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="240">
-                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="589">
+                <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="levelOrder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/levelOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="invertTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/invertTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="27" selection-start-column="27" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="postorderTraversal.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/postorderTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -81,8 +34,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Leetcode/src/Structure/BinaryTree/levelOrder.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -91,6 +44,12 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -128,7 +87,15 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,6 +113,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,10 +200,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297587" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.42225394" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.38088444" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22453083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18431635" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -243,19 +211,12 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,7 +225,42 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="240">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/levelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/invertTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/postorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -311,9 +307,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/src/Readme.txt" />
-    <entry file="file://$PROJECT_DIR$/Leetcode/out/production/Leetcode/algorithm/BinarySearch/intersect.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/out/production/Leetcode/algorithm/BinarySearch/intersect.class" />
     <entry file="file://$PROJECT_DIR$/Leetcode/Basic.txt" />
     <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/BinarySearch/intersection.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -322,17 +316,17 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="120">
             <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -385,21 +379,6 @@
         <state relative-caret-position="-1509" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="240">
-            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/constructMaximumBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -424,7 +403,7 @@
     <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/levelOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -437,8 +416,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/postorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="-9">
           <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/LinkedList/addTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/LinkedList/deleteDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/LinkedList/detectCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/LinkedList/getKthFromEnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/LinkedList/mergeTwoLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="589">
+            <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

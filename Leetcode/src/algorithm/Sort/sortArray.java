@@ -1,8 +1,6 @@
 package algorithm.Sort;
 
 import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
 
 /**
  * @Author Wang Yin

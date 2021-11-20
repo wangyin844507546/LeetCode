@@ -1,5 +1,7 @@
 package algorithm.dynamicProgram;
 
+import java.util.Arrays;
+
 /**
  * @Author Wang Yin
  * @Date 2021/9/5 22:23
@@ -14,8 +16,9 @@ package algorithm.dynamicProgram;
  * 输出：3
  * 解释：最长公共子序列是 "ace" ，它的长度为 3 。
  */
-public class longestCommonSubsequence {
+public class LongestCommonSubsequence {
 
+    static int[][] memo;
 
     public static int longestCommonSubsequence(String text1, String text2) {
         int length1 = text1.length();
@@ -35,7 +38,34 @@ public class longestCommonSubsequence {
         return result[length1][length2];
     }
 
+    public static int longestCommonSubsequence_recursion(String test1,String text2) {
+        int i = test1.length(), j = text2.length();
+        memo = new int[i][j];
+        for (int[] row: memo) {
+            Arrays.fill(row,-1);
+        }
+        return dp(test1,0,text2,0);
+    }
+
+    static int dp(String str1,int i,String str2,int j) {
+        if (i == str1.length() || j == str2.length()) {
+            return 0;
+        }
+        if (memo[i][j] != -1){
+            return memo[i][j];
+        }
+
+        if (str1.charAt(i) == str2.charAt(j)) {
+            return 1 + dp(str1, i+1,str2, j+1);
+        } else {
+            memo[i][j] = Math.max(dp(str1,i+1,str2,j),
+                    dp(str1,i,str2,j+1));
+        }
+        return memo[i][j];
+    }
+
     public static void main(String[] args) {
-        longestCommonSubsequence("abcde","ace");
+        // LongestCommonSubsequence("abcde","ace");
+        longestCommonSubsequence_recursion("abcde","ace");
     }
 }

@@ -19,4 +19,41 @@ package algorithm.dynamicProgram;
  * 5=1+1+1+1+1
  */
 public class CoinChange {
+
+    public int change(int amount, int[] coins) {
+        int[][] dp = new int[coins.length+1][amount+1];
+        for(int i = 0; i < coins.length + 1; i++) {
+            dp[i][0] = 1;
+        }
+        for(int i = 1; i <= coins.length; i++) {
+            for (int j = 1; j <= amount; j++) {
+                if (j >= coins[i-1]) {
+                    dp[i][j] = dp[i-1][j] + dp[i][j - coins[i-1]];
+                } else {
+                    dp[i][j] = dp[i-1][j];
+                }
+            }
+        }
+        return dp[coins.length][amount];
+    }
+
+    /**
+     * 一维解决零钱兑换
+     * @param amount
+     * @param coins
+     * @return
+     */
+    public int coinChange(int amount,int[] coins ) {
+        int[] dp = new int[amount + 1];
+        dp[0] = 1;
+        for (int i = 1; i <= coins.length; i++) {
+            for (int j = 1; j <= amount; j++) {
+                if (j >= coins[i - 1]) {
+                    dp[j] = dp[j] + dp[j - coins[i - 1]];
+                }
+            }
+        }
+        return dp[amount];
+    }
 }
+

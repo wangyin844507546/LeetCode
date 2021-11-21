@@ -1,5 +1,7 @@
 package algorithm.Recursion;
 
+import common.ListNode;
+
 import java.util.List;
 
 /**
@@ -12,7 +14,7 @@ import java.util.List;
  */
 public class reverseList {
 
-    public  ListNode reverseList(ListNode head) {
+    public ListNode reverseList(ListNode head) {
         if (head == null || head.next == null)
             return head;
         ListNode dump = reverseList(head.next);

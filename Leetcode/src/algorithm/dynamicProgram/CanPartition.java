@@ -27,31 +27,10 @@ public class CanPartition {
             }
         }
         return dp[sum];
-
-
-//        int result = 0;
-//        for (int i = 0; i < nums.length; i++) {
-//            result += nums[i];
-//        }
-//        if (result % 2 != 0) {
-//            return false;
-//        }
-//        result = result / 2;
-//        if (nums[0] > result)
-//            return false;
-//        boolean[] f = new boolean[result + 1];
-//        f[nums[0]] = true;
-//        f[0] = true;
-//        for(int i = 1; i < nums.length; i++) {
-//            for(int j = result; j >= nums[i]; j-- ) {
-//                f[j] = f[j] || f[j-nums[i]];
-//            }
-//        }
-//        return f[result];
     }
 
     public static void main(String[] args) {
-        canPartition(new int[] {1,2,5});
+        canPartition(new int[] {1,5,11,5});
     }
 
 

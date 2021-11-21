@@ -1,5 +1,7 @@
 package algorithm.Recursion;
 
+import common.ListNode;
+
 /**
  * @Author Wang Yin
  * @Date 2021/8/8 23:30

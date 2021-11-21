@@ -15,5 +15,5 @@ package structure.Array;
  * 下标 5 -> 下标 6 -> 下标 4 -> 下标 1 -> 下标 3
  */
 // todo
-public class canReach {
+public class CanReach {
 }

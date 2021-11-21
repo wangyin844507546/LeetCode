@@ -15,7 +15,7 @@ import common.ListNode;
  * ans.val = 3, ans.next.val = 4, ans.next.next.val = 5, 以及 ans.next.next.next = NULL.
  *
  */
-public class middleNode {
+public class MiddleNode {
 
     public ListNode middleNode(ListNode head) {
         ListNode tail = head;

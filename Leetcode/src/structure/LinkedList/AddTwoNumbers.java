@@ -13,5 +13,5 @@ package structure.LinkedList;
  *
 
  */
-public class addTwoNumbers {
+public class AddTwoNumbers {
 }

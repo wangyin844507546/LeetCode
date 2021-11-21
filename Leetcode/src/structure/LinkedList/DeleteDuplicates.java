@@ -11,7 +11,7 @@ import common.ListNode;
  * 输入：head = [1,1,2]
  * 输出：[1,2]
  */
-public class deleteDuplicates {
+public class DeleteDuplicates {
 
     public ListNode deleteDuplicates(ListNode head) {
         if (head == null) {

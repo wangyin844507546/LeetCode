@@ -14,7 +14,7 @@ import common.ListNode;
  */
 public class getKthFromEnd {
 
-    public ListNode getKthFromEnd(ListNode head, int k) {
+    public static ListNode getKthFromEnd(ListNode head, int k) {
         ListNode tail = head;
         while (k != 0) {
             tail = tail.next;

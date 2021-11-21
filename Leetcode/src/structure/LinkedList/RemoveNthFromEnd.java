@@ -12,7 +12,7 @@ import common.ListNode;
  * 输出：[1,2,3,5]
  *
  */
-public class removeNthFromEnd {
+public class RemoveNthFromEnd {
 
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode tail = head;

@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cbb3c97-5b08-41c5-9de5-8507ea0b9823" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/algorithm/dynamicProgram/FindTargetSumWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/structure/Integer/Reverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/algorithm/Recursion/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/algorithm/Recursion/addTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/algorithm/Recursion/addTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/algorithm/Recursion/mergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/algorithm/Recursion/mergeTwoLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/algorithm/Recursion/reverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/algorithm/Recursion/reverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/algorithm/dynamicProgram/CanPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/algorithm/dynamicProgram/CanPartition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/algorithm/dynamicProgram/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/algorithm/dynamicProgram/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/algorithm/dynamicProgram/DynamicProgramming.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/structure/Array/canJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/Array/CanJump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/structure/Array/canReach.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/Array/CanReach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/structure/Array/jump.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/Array/jump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/structure/String/longestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/structure/String/LongestPalindrome.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,52 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CanJump.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/Array/CanJump.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-              <folding>
-                <element signature="e#677#678#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CanReach.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/Array/CanReach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jump.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/Array/jump.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-              <folding>
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fourSum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/Array/fourSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,6 +45,8 @@
         <option value="$PROJECT_DIR$/Leetcode/src/algorithm/Recursion/reverseList.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/structure/Array/CanJump.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/structure/Array/jump.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/structure/String/Reverse.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/structure/Integer/Reverse.java" />
       </list>
     </option>
   </component>
@@ -153,22 +99,7 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="structure" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -211,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.jump">
+  <component name="RunManager" selected="Application.Reverse">
     <configuration name="CanJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structure.Array.CanJump" />
       <module name="LeetCode" />
@@ -234,8 +165,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.dynamicProgram.LongestCommonSubsequence" />
+    <configuration name="MinimumDeleteSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.dynamicProgram.MinimumDeleteSum" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -245,13 +176,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MinimumDeleteSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.dynamicProgram.MinimumDeleteSum" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structure.Integer.Reverse" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.dynamicProgram.*" />
+          <option name="PATTERN" value="structure.Integer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,19 +240,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.LongestCommonSubsequence" />
       <item itemvalue="Application.MinimumDeleteSum" />
       <item itemvalue="Application.CanPartition" />
       <item itemvalue="Application.CanJump" />
       <item itemvalue="Application.jump" />
+      <item itemvalue="Application.Reverse" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.jump" />
         <item itemvalue="Application.CanJump" />
         <item itemvalue="Application.CanPartition" />
         <item itemvalue="Application.MinimumDeleteSum" />
-        <item itemvalue="Application.LongestCommonSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -340,11 +271,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20055000" />
+    <option name="totallyTimeSpent" value="22211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -357,7 +287,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24387646" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.38125667" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22334754" />
@@ -368,7 +298,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3109691" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3109691" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -424,7 +354,7 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="18" />
+      <option name="time" value="21" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -456,17 +386,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/BinarySearch/intersect.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/BinarySearch/intersection.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -762,17 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/Array/CanJump.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/Array/CanReach.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -795,6 +703,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/Array/CanJump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/Int.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/Integer/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

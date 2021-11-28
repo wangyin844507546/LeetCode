@@ -10,7 +10,7 @@ import java.util.Arrays;
  * 输入：nums = [5,2,3,1]
  * 输出：[1,2,3,5]
  */
-public class sortArray {
+public class SortArray {
 
     public static void main(String[] args) {
         quickSort(new int[] {5,2,3,1,4});

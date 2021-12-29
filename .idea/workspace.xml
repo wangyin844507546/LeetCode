@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cbb3c97-5b08-41c5-9de5-8507ea0b9823" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/BackTrack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/Combine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/Permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/SubSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/algorithm/SlideWindow/lengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/algorithm/SlideWindow/lengthOfLongestSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/structure/String/CheckInclusion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/algorithm/SlideWindow/CheckInclusion.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,29 +17,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CheckInclusion.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/SlideWindow/CheckInclusion.java">
+      <file leaf-file-name="Permute.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/Permute.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="46" column="21" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="46" selection-end-column="21" />
+            <state relative-caret-position="187">
+              <caret line="25" column="70" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lengthOfLongestSubstring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/SlideWindow/lengthOfLongestSubstring.java">
+      <file leaf-file-name="SubSet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/SubSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="50" column="9" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="50" selection-end-column="9" />
+            <state relative-caret-position="417">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Combine.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/Combine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,6 +109,11 @@
         <option value="$PROJECT_DIR$/Leetcode/src/structure/String/CheckInclusion.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/algorithm/SlideWindow/lengthOfLongestSubstring.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/algorithm/SlideWindow/CheckInclusion.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/BackTrack.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/BackTrack" />
+        <option value="$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/Permute.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/SubSet.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/Combine.java" />
       </list>
     </option>
   </component>
@@ -112,7 +132,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="1220" />
     <option name="height" value="740" />
@@ -149,37 +169,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="SlideWindow" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="structure" type="462c0819:PsiDirectoryNode" />
-              <item name="String" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -208,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckInclusion">
+  <component name="RunManager" selected="Application.Combine">
     <configuration name="CheckInclusion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.SlideWindow.CheckInclusion" />
       <module name="LeetCode" />
@@ -220,41 +209,41 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RemoveDuplicateLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.Stack.RemoveDuplicateLetters" />
+    <configuration name="Combine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.BackTrack.Combine" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure.Stack.*" />
+          <option name="PATTERN" value="algorithm.BackTrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.Integer.Reverse" />
+    <configuration name="Permute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.BackTrack.Permute" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structure.Integer.*" />
+          <option name="PATTERN" value="algorithm.BackTrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SubSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.BackTrack.SubSet" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.BackTrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="jump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structure.Array.jump" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structure.Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="lengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.SlideWindow.lengthOfLongestSubstring" />
@@ -306,19 +295,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.jump" />
-      <item itemvalue="Application.Reverse" />
-      <item itemvalue="Application.RemoveDuplicateLetters" />
       <item itemvalue="Application.CheckInclusion" />
       <item itemvalue="Application.lengthOfLongestSubstring" />
+      <item itemvalue="Application.Permute" />
+      <item itemvalue="Application.SubSet" />
+      <item itemvalue="Application.Combine" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Combine" />
+        <item itemvalue="Application.SubSet" />
+        <item itemvalue="Application.Permute" />
         <item itemvalue="Application.CheckInclusion" />
         <item itemvalue="Application.lengthOfLongestSubstring" />
-        <item itemvalue="Application.RemoveDuplicateLetters" />
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.jump" />
       </list>
     </recent_temporary>
   </component>
@@ -337,16 +326,15 @@
       <workItem from="1638061117045" duration="10060000" />
       <workItem from="1640508973510" duration="7135000" />
       <workItem from="1640530820878" duration="100000" />
-      <workItem from="1640700892202" duration="3045000" />
+      <workItem from="1640700892202" duration="7650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45993000" />
+    <option name="totallyTimeSpent" value="50598000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -359,17 +347,17 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.41355464" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.44121715" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21045576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21045576" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3360996" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43568465" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
@@ -401,13 +389,13 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Leetcode/src/algorithm/SlideWindow/CheckInclusion.java</url>
-          <line>25</line>
+          <url>file://$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/SubSet.java</url>
+          <line>14</line>
           <properties />
-          <option name="timeStamp" value="35" />
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="36" />
+      <option name="time" value="43" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -416,6 +404,71 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>combine(4,2);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>subset(new int[]{1,2,3});</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>permute(new int[] {1,2,3});</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>package algorithm.BackTrack;
+
+import java.util.LinkedList;
+import java.util.List;
+
+/**
+ * @Author Wang Yin
+ * @Date 2021/12/29 9:21
+ */
+public class Permute {
+
+    static List&lt;List&lt;Integer&gt;&gt; res = new LinkedList&lt;&gt;();
+
+    /* 主函数，输入一组不重复的数字，返回它们的全排列 */
+    public static void main(String[] args) {
+        permute(new int[] {1,2,3});
+    }
+
+    public static List&lt;List&lt;Integer&gt;&gt; permute(int[] nums) {
+        // 记录「路径」
+        LinkedList&lt;Integer&gt; track = new LinkedList&lt;&gt;();
+        backtrack(nums, track);
+        return res;
+    }
+
+    public static void backtrack(int[] nums, LinkedList&lt;Integer&gt; track) {
+        // 触发结束条件
+        if (track.size() == nums.length) {
+            res.add(new LinkedList(track));
+            return;
+        }
+
+        for (int i = 0; i &lt; nums.length; i++) {
+            // 排除不合法的选择
+            if (track.contains(nums[i]))
+                continue;
+            // 做选择
+            track.add(nums[i]);
+            // 进入下一层决策树
+            backtrack(nums, track);
+            // 取消选择
+            track.removeLast();
+        }
+    }
+
+}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>checkInclusion1(&quot;ab&quot;,&quot;eidbaooo&quot;);</expression-string>
         <language-id>JAVA</language-id>
@@ -441,57 +494,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>s.indexOf(4,9)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.substring(start,1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.substring(start,len)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/inorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/preorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/levelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/invertTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/src/structure/BinaryTree/postorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -807,7 +812,7 @@
     <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/SlideWindow/lengthOfLongestSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
-          <caret line="50" column="9" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="50" selection-end-column="9" />
+          <caret line="50" column="9" selection-start-line="21" selection-start-column="6" selection-end-line="50" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#369#370#0" expanded="true" />
@@ -818,12 +823,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/SlideWindow/CheckInclusion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="46" column="21" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="46" selection-end-column="21" />
+        <state relative-caret-position="123">
+          <caret line="47" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#269#270#0" expanded="true" />
             <element signature="e#316#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/BackTrack">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/Permute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="70" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/SubSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/algorithm/BackTrack/Combine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
           </folding>
         </state>
       </provider>

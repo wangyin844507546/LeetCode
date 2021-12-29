@@ -65,7 +65,6 @@ public class LongestCommonSubsequence {
     }
 
     public static void main(String[] args) {
-        // LongestCommonSubsequence("abcde","ace");
         longestCommonSubsequence_recursion("abcde","ace");
     }
 }

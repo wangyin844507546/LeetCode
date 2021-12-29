@@ -1,0 +1,39 @@
+1、子序列解题模板
+    （1）一个一维的 dp 数组
+    int n = array.length;
+    int[] dp = new int[n];
+
+    for (int i = 1; i < n; i++) {
+        for (int j = 0; j < i; j++) {
+            dp[i] = 最值(dp[i], dp[j] + ...)
+        }
+    }
+
+    （2）一个二维的 dp 数组
+    int n = arr.length;
+    int[][] dp = new dp[n][n];
+
+    for (int i = 0; i < n; i++) {
+        for (int j = 1; j < n; j++) {
+            if (arr[i] == arr[j])
+                dp[i][j] = dp[i][j] + ...
+            else
+                dp[i][j] = 最值(...)
+        }
+    }
+    （i）涉及两个字符串/数组时
+     (ii)只涉及一个字符串/数组时
+
+
+
+2、背包类型问题
+    （1） 0-1背包问题
+    for i in [1..N]:
+        for w in [1..W]:
+            dp[i][w] = max(
+                dp[i-1][w],
+                dp[i-1][w - wt[i-1]] + val[i-1]
+            )
+    return dp[N][W]
+    （2）子集背包问题
+     (3) 完全背包问题

@@ -1,5 +1,9 @@
 package structure.String;
 
+import com.sun.deploy.util.StringUtils;
+
+import java.util.Arrays;
+
 /**
  * @Author Wang Yin
  * @Date 2021/8/24 22:01
@@ -22,7 +26,21 @@ package structure.String;
 public class LongestPalindrome {
 
 
-    public String longestPalindrome(String s) {
-        return "";
+    public static int longestPalindrome(String s) {
+        return longestCommonSubsequence_recursion(s,s);
+    }
+
+    static int[][] memo;
+    public static int longestCommonSubsequence_recursion(String test1,String text2) {
+        int i = test1.length(), j = text2.length();
+        memo = new int[i][j];
+        for (int[] row: memo) {
+            Arrays.fill(row,-1);
+        }
+        return dp(test1,0,text2,0);
+    }
+
+    private static int dp(String test1, int i, String text2, int i1) {
+        return 1;
     }
 }

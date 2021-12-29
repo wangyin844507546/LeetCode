@@ -32,9 +32,5 @@ public class Combine {
             backtrack(n,k,i+1,track);
             track.removeLast();
         }
-
-
     }
-
-
 }

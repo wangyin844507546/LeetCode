@@ -1,4 +1,4 @@
-package structure.binaryTree;
+package structure.binaryTree.idea;
 
 import common.TreeNode;
 

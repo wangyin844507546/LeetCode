@@ -1,4 +1,4 @@
-package structure.binaryTree;
+package structure.binaryTree.basic;
 
 import common.TreeNode;
 
@@ -29,7 +29,7 @@ public class diameterOfBinaryTree {
         return 1 + Math.max(leftMax,rightMax);
     }
 
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         TreeNode letfNode = new TreeNode(2);
         TreeNode rightNode = new TreeNode(2);
         TreeNode root = new TreeNode(1,letfNode,null);

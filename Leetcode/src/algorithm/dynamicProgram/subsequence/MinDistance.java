@@ -1,4 +1,6 @@
-package algorithm.dynamicProgram;
+package algorithm.dynamicProgram.subsequence;
+
+import algorithm.dynamicProgram.subsequence.LongestCommonSubsequence;
 
 /**
  * @Author Wang Yin

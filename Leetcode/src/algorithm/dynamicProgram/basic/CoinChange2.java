@@ -1,4 +1,4 @@
-package algorithm.dynamicProgram;
+package algorithm.dynamicProgram.basic;
 
 /**
  * @Author Wang Yin
@@ -18,7 +18,7 @@ package algorithm.dynamicProgram;
  * 5=2+1+1+1
  * 5=1+1+1+1+1
  */
-public class CoinChange {
+public class CoinChange2 {
 
     public int change(int amount, int[] coins) {
         int[][] dp = new int[coins.length+1][amount+1];

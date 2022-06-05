@@ -1,4 +1,4 @@
-package algorithm.dynamicProgram.basic;
+package algorithm.dynamicProgram.coin;
 
 /**
  * @Author Wang Yin

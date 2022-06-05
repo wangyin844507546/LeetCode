@@ -12,8 +12,6 @@ package algorithm.dynamicProgram.subsequence;
  */
 public class MaxSubArray {
 
-
-
     public static int maxSubArray(int[] nums) {
         if(nums.length == 0)
             return 0;

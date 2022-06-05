@@ -1,4 +1,4 @@
-package algorithm.dynamicProgram.basic;
+package algorithm.dynamicProgram.coin;
 
 import java.util.Arrays;
 

@@ -21,6 +21,7 @@ public class rob1 {
         return res;
     }
 
+    // 自顶向下
     public static int dp(int[] nums, int start){
         if (start >= nums.length)
             return 0;
